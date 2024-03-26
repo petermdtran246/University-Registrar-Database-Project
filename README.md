@@ -5,6 +5,7 @@ I. Overview
 This project, worth 120 points, involves designing a database for the university registrar's office. It consists of two parts: creating a table list and a physical model.
 
 II. Business Requirements
+
 a. Students enroll in courses, make payments, and are assigned advisors.
 b. Instructors teach courses, which include both online and traditional components.
 c. Advisors notify instructors when students drop courses.
